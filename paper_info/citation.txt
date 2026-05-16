@@ -1,0 +1,10 @@
+Citation information will be updated after publication details become available.
+
+Repository Title:
+Energy-Aware Agentic Geo-AI Framework
+
+Author:
+Anant Jain
+
+Conference:
+International Conference on Geo-AI for Environment Monitoring and Sustainability (IC-GEMS'26)
