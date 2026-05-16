@@ -1,0 +1,4 @@
+Agent,Energy Used,Coverage,Sustainability
+Constraint-only agent,575.90,32.46,0.056
+Utility-based agent,594.26,13.18,0.023
+Utility + outcome learning agent,540.18,26.39,0.049
